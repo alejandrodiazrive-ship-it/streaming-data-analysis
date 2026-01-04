@@ -17,3 +17,8 @@ La Paranoia del Churn: Mientras los gigantes (Netflix/Tencent) operan con un Chu
 Dominio de Pantalla: Netflix lidera la penetración en Smart TV (16.2%), lo que correlaciona directamente con su alta retención familiar en comparación con servicios "Mobile-First" de menor ARPU.
 
 Brecha de Monetización: Los servicios gratuitos (AVOD) como MX Player igualan en volumen a los líderes, pero su ARPU es un 80% inferior, demostrando que el volumen no siempre es rentabilidad.
+
+### 📈 Visualización del Dashboard Ejecutivo
+![Dashboard de Streaming](dashboard con 2 graficas.PNG)
+
+[🔗 Ver Google Sheets Interactivo](https://docs.google.com/spreadsheets/d/1rQplkM8uSswzXNu4Mr7r0p2SBVrXt0Aiucim3qmCfIw/edit?usp=sharing)
